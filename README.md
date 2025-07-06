@@ -1,2 +1,3 @@
-# a-simple-to-do-to-manage-a-project
-Project a-simple-to-do-to-manage-a-project generated.
+app generated from cofounder/boilerplate
+
+instructions here on how to start api and frontend , whether in parallel or separately
